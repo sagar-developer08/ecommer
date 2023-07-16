@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    "build": "next build && export",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {
